@@ -1,0 +1,17 @@
+{"timestamp":"2025-11-27T00:31:52.190Z","level":"info","message":"GET / 404 139 - 8.064 ms"}
+{"timestamp":"2025-11-27T00:32:09.017Z","level":"info","message":"GET /api/hello 404 148 - 0.810 ms"}
+{"timestamp":"2025-11-27T00:32:29.598Z","level":"info","message":"GET /api/hello 404 148 - 0.317 ms"}
+{"timestamp":"2025-11-27T00:33:18.191Z","level":"info","message":"GET /api/slow 404 147 - 0.267 ms"}
+{"timestamp":"2025-11-27T00:33:20.552Z","level":"info","message":"GET /api/slow 404 147 - 0.414 ms"}
+{"timestamp":"2025-11-27T00:33:26.173Z","level":"info","message":"GET /api/error 404 148 - 0.303 ms"}
+{"timestamp":"2025-11-27T00:33:28.317Z","level":"info","message":"GET /api/error 404 148 - 0.475 ms"}
+{"timestamp":"2025-11-27T00:33:28.918Z","level":"info","message":"GET /api/error 404 148 - 0.479 ms"}
+{"timestamp":"2025-11-27T00:33:29.645Z","level":"info","message":"GET /api/error 404 148 - 0.484 ms"}
+{"timestamp":"2025-11-27T00:33:29.836Z","level":"info","message":"GET /api/error 404 148 - 0.536 ms"}
+{"timestamp":"2025-11-27T00:33:29.996Z","level":"info","message":"GET /api/error 404 148 - 0.296 ms"}
+{"timestamp":"2025-11-27T00:33:30.158Z","level":"info","message":"GET /api/error 404 148 - 0.588 ms"}
+{"timestamp":"2025-11-27T00:33:30.340Z","level":"info","message":"GET /api/error 404 148 - 1.379 ms"}
+{"timestamp":"2025-11-27T00:33:30.732Z","level":"info","message":"GET /api/error 404 148 - 0.329 ms"}
+{"timestamp":"2025-11-27T00:33:31.062Z","level":"info","message":"GET /api/error 404 148 - 0.406 ms"}
+{"timestamp":"2025-11-27T00:33:31.234Z","level":"info","message":"GET /api/error 404 148 - 0.421 ms"}
+{"timestamp":"2025-11-27T00:33:31.405Z","level":"info","message":"GET /api/error 404 148 - 0.391 ms"}
